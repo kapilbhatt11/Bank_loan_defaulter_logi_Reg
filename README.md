@@ -1,6 +1,6 @@
 # Bank_loan_defaulter_logi_Reg
 
-with bank load data set, i have done exploratory analysis.
+with bank loan data set, i have done exploratory analysis.
 making some boxplot between "balance and defaulter" is give me some use full information.
 making cross table between defaults and student.
 finding Q1,Q3 quantile and inter quantile range IQR as well as lower limit and upper limit.
